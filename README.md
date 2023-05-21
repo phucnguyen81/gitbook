@@ -2,6 +2,7 @@
 description: Learn GitBook
 ---
 
-# Initial page
+# GitBook
 
-Looks like GitBook helps create technical documentations that uses Git for version control.
+GitBook helps create technical documentations that use Git for version control so that changes can be grouped together with each revisions.
+
