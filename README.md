@@ -1,8 +1,3 @@
----
-description: Learn GitBook
----
+# Procedure Code
 
-# GitBook
-
-GitBook helps create technical documentations that use Git for version control so that changes can be grouped together with each revisions.
-
+Procedural code is recipe: do this, then do this, if see this, then do that. It's a natural and direct way to tell the computer to do something.
